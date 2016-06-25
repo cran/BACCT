@@ -1,0 +1,15 @@
+64250355b526acc04f7a84096b0c05d0 *DESCRIPTION
+591fbabd5f8d1b1a681f6394cf6ce26c *NAMESPACE
+d9489bf0cd363fb8531499e21c7f33f1 *R/BACCT.R
+b9470d72c391502f67ca5c62b8e216b9 *R/BAC_binom.R
+d93fb5cea870a2673ebed508d8204fd5 *R/decision_eval.R
+c379142ef954d06956adcfa4598f0247 *R/heatmap_decision.R
+023c5971723dfd912d06e93549c3d706 *R/plot.BACdecision.R
+447e7c49524b5d7dc51cfe66f463f721 *R/summary.BAC.R
+5e48f529197824cfb3eab45e1b944bba *R/sysdata.rda
+312d505875ec38e50698f5a11cad323e *man/BACCT-package.Rd
+7ecc2bbd1fd3274e24104e66d198a4b0 *man/BAC_binom.Rd
+a252c1250eac652ebf3576cd4e7a1132 *man/decision_eval.Rd
+5ef003772c12c9d5f655593548da633a *man/heatmap_decision.Rd
+1d19a677a63860a491bafd586ad2f76b *man/plot.BACdecision.Rd
+18a1dc7dd32bf66e48e8bf604d255190 *man/summary.BAC.Rd
